@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Basic Stuff about Binary Search Tree"
-date: 2025-02-04 10:20:00 +0000
-categories: jekyll update
+date: 2025-02-23
+categories: blog update
 ---
 
 #### An Simple Introduction
